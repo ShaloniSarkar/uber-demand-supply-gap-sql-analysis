@@ -57,7 +57,9 @@ Skills Demonstrated
 ---
 Dashboard Preview
 
-![Dashboard](Query_Outputs/dashboard.png)
+<p align="center">
+  <img src="Query_Outputs/dashboard.png" width="2500">
+</p>
 
 ---
 📊 Key Business Insights
