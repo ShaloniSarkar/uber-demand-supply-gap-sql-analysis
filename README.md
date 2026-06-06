@@ -58,7 +58,13 @@ Skills Demonstrated
 Dashboard Preview
 
 <p align="center">
-  <img src="Query_Outputs/dashboard.png" width="900">
+  <a href="Uber Dashboard.pdf">
+    <img src="Query_Outputs/dashboard.png" alt="Dashboard Preview" width="1000">
+  </a>
+</p>
+
+<p align="center">
+  Click the image to view the full-resolution dashboard PDF.
 </p>
 
 ---
