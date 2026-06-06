@@ -52,7 +52,7 @@ Skills Demonstrated
 
 ## 🔄 Project Workflow
 
-![Project Workflow](workflow.png)
+![Project Workflow](Project%20Workflow.png)
 
 ---
 Dashboard Preview
