@@ -10,8 +10,7 @@ This project analyzes Uber ride request data using SQL and Excel to identify dem
 
 - MySQL
 - Microsoft Excel
-- Pivot Tables
-- Pivot Charts
+- Pivot Tables & Charts
 - Slicers
 - GitHub
 
@@ -37,6 +36,30 @@ Business Questions Solved
 - Which drivers complete the most trips?
 
 ---
+Skills Demonstrated
+
+- SQL
+- GROUP BY
+- Aggregate Functions
+- Date & Time Functions
+- Business Analysis
+- Data Cleaning
+- Excel Pivot Tables
+- Dashboard Design
+- Data Visualization
+
+---
+
+## 🔄 Project Workflow
+
+![Project Workflow](workflow.png)
+
+---
+Dashboard Preview
+
+![Dashboard](Query_Outputs/dashboard.png)
+
+---
 📊 Key Business Insights
 
 - Peak demand occurs during early morning and evening hours.
@@ -46,7 +69,6 @@ Business Questions Solved
 - Demand exceeds supply during peak hours, indicating the need for better driver allocation.
 
 ---
-
 📂 Repository Contents
 - `README.md` – Project overview and documentation.
 - `SQL_Queries.sql` – SQL queries used for analysis.
