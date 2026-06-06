@@ -1,4 +1,4 @@
-🚖 Uber Demand-Supply Gap Analysis using SQL & Excel
+🚖 Uber Demand-Supply Gap Analysis
 
 📌 Project Overview
 
@@ -10,12 +10,33 @@ This project analyzes Uber ride request data using SQL and Excel to identify dem
 
 - MySQL
 - Microsoft Excel
-- SQL
-- Pivot Tables & Charts
+- Pivot Tables
+- Pivot Charts
+- Slicers
 - GitHub
 
 ---
 
+Dataset
+Uber Request Raw Data containing 6745 requests.
+
+---
+
+Dashboard KPIs
+- Total Requests
+- Completed Trips
+- Cancelled Trips
+- No Cars Available
+
+---
+Business Questions Solved
+- Which hour has maximum demand?
+- Which pickup point has maximum requests?
+- What is the cancellation rate?
+- Where does demand exceed supply?
+- Which drivers complete the most trips?
+
+---
 📊 Key Business Insights
 
 - Peak demand occurs during early morning and evening hours.
