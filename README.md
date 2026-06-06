@@ -58,7 +58,7 @@ Skills Demonstrated
 Dashboard Preview
 
 <p align="center">
-  <img src="Query_Outputs/dashboard.png" width="2500">
+  <img src="Query_Outputs/dashboard.png" width="900">
 </p>
 
 ---
